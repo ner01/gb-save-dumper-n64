@@ -12,6 +12,6 @@ First setup an n64 developer enviroment. I suggest [this](https://werkn.github.i
 
 ## Credits
 
-All the major work was done by [saturnu](https://github.com/saturnu/libgbpak), [ragnaroktommorow](https://github.com/ragnaroktomorrow/gb64-x7) and [networkfusion](https://github.com/N64-tools/ED64/tree/develop-xio-new)
+All the major work was done by [saturnu](https://github.com/saturnu/libgbpak), [ragnaroktomorrow](https://github.com/ragnaroktomorrow/gb64-x7) and [networkfusion](https://github.com/N64-tools/ED64/tree/develop-xio-new)
 
 I was just the guy who combined their work :-)
