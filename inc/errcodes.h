@@ -1,0 +1,9 @@
+typedef enum
+{
+	ERR_NONE = 0,
+	ERR_GB_INIT,
+	ERR_RAM_READ,
+	ERR_FILE_OPEN,
+	ERR_FILE_WRITE,
+	ERR_FILE_CLOSE
+} err_t;
