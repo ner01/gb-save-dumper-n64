@@ -3,6 +3,7 @@ A simple tool to dump your GameBoy save game file using your N64, TransferPak an
 
 ## Installation 
 
+This application was build for the X-Series of the everdrive64 in mind! Just use this save dumper if you're on v3.04 and above!
 Go to [Releases](https://github.com/ner01/gb-save-dumper-n64/releases/tag/latest) and download the v64 file. Put it anywhere on your sd card and start the application like a game on your everdrive64. The application will save the file to the root of your SD card.
 
 ## Build
